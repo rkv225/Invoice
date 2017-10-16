@@ -30,6 +30,8 @@ $branch_ifsc='IFSC Code : bank ifsc ';
 //user name
 $user_name="User";
 ```
+Now import the database from the .sql file in the project directory or you can paste the queries into the command of your database to create the database.
+
 ## Screenshots
 ![image](https://github.com/rkv225/Invoice/blob/master/invoice-screens/mu.PNG)
 ![image](https://github.com/rkv225/Invoice/blob/master/invoice-screens/stateInfo.PNG)
